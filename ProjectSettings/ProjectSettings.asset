@@ -512,11 +512,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloDev
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\hololens-dev\HoloDev\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: mcknz
   metroCertificateIssuer: mcknz
-  metroCertificateNotAfter: 0036cf9c56dcd301
+  metroCertificateNotAfter: 808f17030fddd301
   metroApplicationDescription: HoloDev
   wsaImages: {}
   metroTileShortName: 

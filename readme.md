@@ -1,6 +1,6 @@
 # Microsoft HoloLens development
 
-This repo contains a unity project that can be built and deployed to Microsoft HoloLens.
+This repo contains a Unity project that can be built and deployed to Microsoft HoloLens.
 
 The project was created as part of the Pluralsight course [HoloLens Development Fundamentals][1].
 

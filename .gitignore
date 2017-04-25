@@ -12,6 +12,9 @@ UWP/
 project.json
 project.lock.json
 
+# allow asset meta files to be added to git
+!*.meta
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #

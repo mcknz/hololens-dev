@@ -11,12 +11,12 @@ To configure a Unity build for HoloLens:
 1. Go to File | Build Settings...
 2. Add the "Main" Scene to the build
 3. Select "Windows Store" as the platform, and set the options as follows:
-  1. SDK: Universal 10
-  2. Target Device: HoloLens
-  3. UWP Build Type: D3D
-  4. UWP: Latest installed
-  5. Build and Run on: Local Machine
-  6. Unity C# Projects: checked
+    1. SDK: Universal 10
+    2. Target Device: HoloLens
+    3. UWP Build Type: D3D
+    4. UWP: Latest installed
+    5. Build and Run on: Local Machine
+    6. Unity C# Projects: checked
 4. Create an "App" directory in root, and select that folder for build
 
 

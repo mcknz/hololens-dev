@@ -1,6 +1,6 @@
 # Microsoft HoloLens development
 
-This repo contains a Unity project that can be built and deployed to Microsoft HoloLens.
+This repo contains a Unity project (Unity 2017.1.0b2) that can be built and deployed to Microsoft HoloLens.
 
 The project was created as part of the Pluralsight course [HoloLens Development Fundamentals][1].
 
@@ -10,13 +10,12 @@ To configure a Unity build for HoloLens:
 
 1. Go to File | Build Settings...
 2. Add the "Main" Scene to the build
-3. Select "Windows Store" as the platform, and set the options as follows:
-    1. **SDK**:               Universal 10
-    2. **Target Device**:     HoloLens
-    3. **UWP Build Type**:    D3D
-    4. **UWP**:               Latest installed
-    5. **Build and Run on**:  Local Machine
-    6. **Unity C# Projects**: checked
+3. Select "Universal Windows Platform" as the platform, and set the options as follows:
+    1. **Target Device**:     HoloLens
+    2. **Build Type**:    D3D
+    3. **SDK**:               Latest installed
+    4. **Build and Run on**:  Local Machine
+    5. **Unity C# Projects**: checked
 
 4. Create an "App" directory in root, and select that folder for build
 

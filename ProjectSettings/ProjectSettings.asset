@@ -516,7 +516,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: mcknz
   metroCertificateIssuer: mcknz
-  metroCertificateNotAfter: 808f17030fddd301
+  metroCertificateNotAfter: 8066b0789bded301
   metroApplicationDescription: HoloDev
   wsaImages: {}
   metroTileShortName: 
